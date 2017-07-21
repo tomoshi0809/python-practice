@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/python
+#coding:utf-8
+
+def main():
+    ${1}
+
+if __name__ == "__main__":
+    main()
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>tmpl</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
